@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend developer roles
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend developer projects
-- 📫 How to reach me deevynobeten@gmail.com
+- 📫 How to reach me divineobeten9@gmail.com
 
 <!---
 Deevyn9/Deevyn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
