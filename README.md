@@ -3,7 +3,7 @@
 
 <p align="center">
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Frontend Engineer.
+  🧑‍💼 I am a Frontend Engineer.
   <br />
 </p>
 
