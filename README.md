@@ -1,58 +1,95 @@
+<h1 align="center">  Hi, I’m Divine Obeten 👋 </h2>
+<img align="right" src="https://komarev.com/ghpvc/?username=Deevyn9">
 
-<div align="center">
-<div id="badges">
-<a href="https://www.linkedin.com/in/divine-obeten/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/deeevyn9/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/cssSenpai">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<p align="center">
+  <br />
+  🧑‍💼 I’m currently a freelancer working as a Frontend Engineer.
+  <br />
+</p>
 
-
-
---- 
-
-### :man_technologist: About Me :
-<div align="left">
-
-
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-
-- :telescope: I’m working as a Software Engineer and contributing with my Frontend skills to building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I review solutions and codes on <a href="">Frontend Mentors</a> and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Divine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divine-obeten/)
+<!-- social handles -->
+<div align="center" style="display: flex;"> 
+<!-- instagram -->
+  <a href="https://instagram.com/deeevyn9" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- twitter -->
+  <a href="https://twitter.com/iamdivineobeten" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <!-- gmail -->
+  <a href = "mailto:divineobeten9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="http://www.linkedin.com/in/divine-obeten" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
+<hr />
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cfirebase%2Cgithub%2Cjavascript%2Cstyledcomponents%2Cnextjs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=git%2Creact%2Cgithub%2Cc#%2Cjavascript%2Cstyledcomponents%2Cnextjs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=git%2Creact%2Cgithub%2Cc#%2Cjavascript%2Cstyledcomponents%2Cnextjs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cvercel%2Ccss%2Chtml%2Csolidity%2Cvscode%2Cnetlify%2Cfigma&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Chtml%2Cvscode%2Cnetlify%2Cfigma&theme=light" />
+            <img src=https://skillicons.dev/icons?i=tailwindcss%2Ctypescript%2Cmysql%2Cdjango%2Chtml%2Credux%2Cdocker%2Cvscode%2Cnetlify%2Cfigma&theme=light" alt="skills - 2" />
+        </picture>
 
-### :hammer_and_wrench: Languages and Tools :
+  </a>
+</p>
+<br />
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<!-- learnings -->
+<h3 align="center">Learning</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=nodejs%2Cvue%2Cthreejs&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=java%2Cgooglecloud&theme=light' />
+          <img src='https://skillicons.dev/icons?i=java%2Cgooglecloud' alt="learning" />
+        </picture>
+  </a>
+</p>
 
----
+  <hr />
 
-### :fire: My Stats :
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+  <div align=center>
+     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deevyn9&theme=react&border=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deevyn9&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Deevyn9&theme=default&border=61dafb" alt="Divine's streak stats" />
+      </picture>
+    </a>
+      <!-- language stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deevyn9&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Deevyn9&langs_count=8&layout=compact&border_color=61dafb" /> 
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deevyn9&langs_count=8&layout=compact&border_color=61dafb" alt="divine's language stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+  <br />
+  <br />
+  <br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Deevyn9&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Deevyn9&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deevyn&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="divine's contribution graph" />
+    </picture>
+  </a>
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deevyn9&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deevyn9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<hr />
