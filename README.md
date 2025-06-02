@@ -2,7 +2,7 @@
 
 > *Frontend Developer | Exploring Blockchain & Systems Tech*
 
-🧭 Currently Focus
+🧭 Current Focus
 - Growing beyond frontend frameworks by exploring systems programming with Rust and blockchain technologies.
 - Exploring smart contract development and decentralized app architecture.
 - Building and shipping my own SaaS tools.
