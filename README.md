@@ -5,7 +5,7 @@
 🧭 Current Focus
 - Exploring systems programming with Rust and blockchain technologies.
 - Exploring smart contract development and decentralized app architecture.
-- Building and shipping SaaS tools.
+- Building and shipping Products.
 - Creating interactive UI experiences with animation, motion, and interaction in mind.
 
 ### 🧰 Tools I Work With
