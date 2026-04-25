@@ -1,13 +1,24 @@
-# 👋 Hi, I'm Divine Obeten
+# 👋 Hi, I’m Divine Obeten
 
-> *Frontend Developer | Exploring Blockchain & Systems Tech*
+Design-focused Frontend Engineer crafting expressive, high-performance interfaces.
 
-🧭 Current Focus
-- Exploring systems programming with Rust and blockchain technologies.
-- Exploring smart contract development and decentralized app architecture.
-- Building and shipping Products.
-- Creating interactive UI experiences with animation, motion, and interaction in mind.
-
-### 🧰 Tools I Work With
+### 🧰 Tech Stack
 ```ts
-JavaScript · TypeScript · React · Next.js · Tailwind CSS · GSAP · Framer Motion · Rust · Solidity
+TypeScript · Next.js · Tailwind CSS · GSAP
+```
+
+Shipping across SaaS, fintech, and onchain — with a focus on product, performance, and interaction.
+
+⚡ About
+- I study world-class interfaces daily (Awwwards, top-tier studios)
+- I build interaction-heavy, animation-driven experiences
+- I train consistently — lifting 5x/week and running 3x
+
+🧠 Current Focus
+- Design engineering (motion, layout systems, interaction design)
+- Creative development (GSAP, immersive UI)
+
+🎯 Interests
+- Animations - Design Systems - Creative Dev - Fitness - Anime - Football
+
+Bleach still clears.
