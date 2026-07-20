@@ -20,5 +20,3 @@ Shipping across SaaS, fintech, and onchain — with a focus on product, performa
 
 🎯 Interests
 - Animations - Design Systems - Creative Dev - Fitness - Anime - Football
-
-Bleach still clears.
