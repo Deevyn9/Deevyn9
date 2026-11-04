@@ -1,22 +1,27 @@
-# 👋 Hi, I’m Divine Obeten
+# Divine Obeten
 
-Design-focused Frontend Engineer crafting expressive, high-performance interfaces.
+**Frontend Engineer · React · TypeScript · Next.js**
 
-### 🧰 Tech Stack
-```ts
-TypeScript · Next.js · Tailwind CSS · GSAP
-```
+I build production web applications and interfaces at the intersection of engineering and design.
 
-Shipping across SaaS, fintech, and onchain — with a focus on product, performance, and interaction.
+My work spans fintech, SaaS, and Web3, from complex application workflows and data-intensive dashboards to polished, interaction-driven experiences.
 
-⚡ About
-- I study world-class interfaces daily (Awwwards, top-tier studios)
-- I build interaction-heavy, animation-driven experiences
-- I train consistently — lifting 5x/week and running 3x
+I care about frontend architecture, performance, accessibility, and the details that make software feel considered.
 
-🧠 Current Focus
-- Design engineering (motion, layout systems, interaction design)
-- Creative development (GSAP, immersive UI)
+### Technology
 
-🎯 Interests
-- Animations - Design Systems - Creative Dev - Fitness - Anime - Football
+`TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS` `Redux Toolkit` `Zustand` `React Query` `Supabase` `Firebase` `GSAP` `Framer Motion`
+
+### Selected Projects
+
+**[Quests](https://quests.divineobeten.xyz)**
+
+A habit and activity tracker built around recurring check-ins, streaks, recovery mechanics, and progress tracking.
+
+**[Applymate](https://applymate.divineobeten.xyz)**
+
+A collection of selected frontend projects and experiments.
+
+---
+
+[Portfolio](https://divineobeten.xyz) · [LinkedIn](https://linkedin.com/in/deevyn9)
